@@ -1,6 +1,6 @@
 'use strict'
 
-var highlight = require('highlight.js') // eslint-disable-line ava/no-import-test-files
+var highlight = require('highlight.js')
 var fs = require('fs')
 var path = require('path')
 var test = require('tape')
